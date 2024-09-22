@@ -23,7 +23,6 @@ For your Recursion activity, you need to:
 * Write an iterative method called getSum() that takes an int n as a parameter and calculates the sum of all the numbers between 1 and n.
 * Implement the recursive method for getSum().
 * Write a recursive method named printReverse()that will take a String as a parameter and will print it in reverse order.
-* Trace the diagram from the workbook.
 ```
 
 ### Expected Output
