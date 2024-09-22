@@ -1,29 +1,28 @@
-# Recursion
+# Recursion 📚📚
 
 ### Welcome!
-This GitHub repository is where you can work and submit your Act 3 Recursion.java activity!
+Here you will be working and submitting your Activity 3!
 ```text
 Note: Please read all the information below before starting the activity!
 ```
 
 For detailed instructions, you can check the presentation here: [Recursion Presentation](https://docs.google.com/presentation/d/1Yfk42CqjIMAhe3XYSyLdoz0rXOzAKOmKbhXLNTC08d0/edit#slide=id.p).
 
-Or you can keep reading!
+`Note: You can copy the code to your VS Code and work from there (recommended), or you can directly work on GitHub Codespaces.`
 
 ## Activity Instructions
 
-For your Recursion Manipulation activity, you need to:
+For your Recursion activity, you need to:
 
 ```
-Create a program called Recursion.java
-Implement an iterative method named printReverseIter() that takes an int as a parameter and print the numbers as follows: n, n-1, n -2,..., 1
-Write a recursive method named printReverseRec() that does the same as the last method.
-Write an iterative method called getSum() that takes an int n as a parameter and calculates the sum of all the numbers between 1 and n.
-Implement the recursive method for getSum().
-Write a recursive method named printReverse()that will take a String as a parameter and will print it in reverse order.
-Trace the diagram from the workbook.
+* Create a program called Recursion.java
+* Implement an iterative method named printReverseIter() that takes an int as a parameter and print the numbers as follows: n, n-1, n -2,..., 1
+* Write a recursive method named printReverseRec() that does the same as the last method.
+* Write an iterative method called getSum() that takes an int n as a parameter and calculates the sum of all the numbers between 1 and n.
+* Implement the recursive method for getSum().
+* Write a recursive method named printReverse()that will take a String as a parameter and will print it in reverse order.
+* Trace the diagram from the workbook.
 ```
-*Note: Do everything in the same java file.*
 
 ### Expected Output
 ```
@@ -43,24 +42,26 @@ retupmoC
 > [!IMPORTANT]
 > ### How to submit your activity:
 
-### If you're using GitHub Codespaces:
+<details>
+<summary> If you're using your own VS Code:</summary>
 
-1. Finish reading the activity instructions.
-2. Click the file ending in `.java`.
-3. Start coding!
-4. When you're ready to submit the activity, click on the "Source Control" tab (usually on the left of your screen).
-5. Click on commit (if prompted to stage changes, click "Yes").
-6. Write your Name and Student ID in the newly created "COMMIT_EDITMSG" tab, then close it.
-7. Click on the button "Sync changes" and that's it! You've submitted your activity.
+```text
+1. In your GitHub assignment, open the file with the name of the program that you want to submit.
+2. Click the pencil icon ("edit this file") in the right upper corner.
+3. Paste the code from your VS Code into GitHub
+4. Click "Commit changes" (Green button in right upper corner).
+5. Accept/confirm any prompts, and that's it! You've submitted your activity.
+```
+</details>
 
-### If you're not using GitHub Codespaces:
+<details>
+<summary> If you're using GitHub Codespaces:</summary>
 
-1. Finish reading the activity instructions.
-2. Click the file ending in `.java`.
-3. Click the pencil cion ("edit this file") in the upper right corner to start working.
-4. Copy the code to your local IDE (VS Code is recommended) and work from there (recommended).
-5. When you're ready to submit the activity, paste the code back into your .java file on GitHub and click "Commit changes" (Green button).
-6. Accept/confirm any prompts, and that's it! You've submitted your activity.
-
->[!TIP]
->In GitHub Codespaces, you can review your last submission in the "TIMELINE" section (bottom left corner).
+```text
+1. Whenever you're ready to submit the activity, click on the "Source Control" tab (usually on the left of your screen).
+2. Write your Student ID in the Message textbox (above the green "Commit" button). 
+3. Click on commit (if prompted to stage changes, click "Yes").
+4. Click on the button "Sync changes", accept everything and that's it!
+If you didn't get any errors, you've submitted your activity successfully. Otherwise, send me a message with your error.
+```
+</details>
