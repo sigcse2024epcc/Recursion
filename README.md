@@ -2,15 +2,14 @@
 
 ### Welcome!
 Here you will be working and submitting your Activity 3!
-```text
+`
 Note: Please read all the information below before starting the activity!
-```
+`
 
 For detailed instructions, you can check the presentation here: [Recursion Presentation](https://docs.google.com/presentation/d/1Yfk42CqjIMAhe3XYSyLdoz0rXOzAKOmKbhXLNTC08d0/edit#slide=id.p).
-
-```text
+`
 Note: You can copy the code to your VS Code and work from there (recommended), or you can directly work on GitHub Codespaces.
-```
+`
 
 ## Activity Instructions
 
