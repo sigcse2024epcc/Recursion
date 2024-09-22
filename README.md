@@ -67,7 +67,7 @@ If you didn't get any errors, you've submitted your activity successfully. Other
 </details>
 
 >[!Having Trouble Submitting?]
-If you encounter any errors while submitting the activity through GitHub, please send me an email with the following:
+>If you encounter any errors while submitting the activity through GitHub, please send me an email with the following:
 
 The .java file(s) of your activity
 A picture or proof of the error you're experiencing.
